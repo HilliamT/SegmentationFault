@@ -6,4 +6,4 @@
 
 #define MAX_QUERY_SIZE 65536
 
-char* get_stackoverflow_results(char *query);
+char *get_stackoverflow_results(char *query);

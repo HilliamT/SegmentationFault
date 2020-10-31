@@ -2,7 +2,7 @@
 #define DISPLAY_H
 
 #include "../question.h"
-#include "../../linked_list.h"
+#include "../util/linked_list.h"
 
 void display_clear(void);
 
@@ -15,4 +15,3 @@ void display_usage(void);
 void display_help_page(void);
 
 #endif
-
